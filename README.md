@@ -48,5 +48,7 @@ AWS | Docker | Git | GitHub | Linux
 
 ## 📫 Connect With Me
 📧 Email: umamahesh.pothula08@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/umamahesh-pothula-730037257
+
 💻 GitHub: https://github.com/Umamahesh008
