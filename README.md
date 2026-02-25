@@ -1,6 +1,6 @@
 ## 🚀 Umamahesh Pothula
 
-🎓 B.Tech Computer Science @ IIIT Kottayam (2022–2026)
+🎓 B.Tech Computer Science At IIIT Kottayam (2022–2026)
 
 💡 AI/ML Enthusiast | Full Stack Developer | Data Analyst | Product Analyst
 
