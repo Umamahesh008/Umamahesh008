@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🚀 Umamahesh Pothula
+
+🎓 B.Tech Computer Science @ IIIT Kottayam (2022–2026)
+💡 AI/ML Enthusiast | Full Stack Developer | Data Analyst
+📍 Hyderabad, India
 
 <!--
 **Umamahesh008/Umamahesh008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
